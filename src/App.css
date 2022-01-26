@@ -9,8 +9,8 @@
   body {
     background: linear-gradient(
       90deg,
-      rgba(48, 16, 255, 1) 0%,
-      rgba(100, 115, 255, 1) 100%
+      #6ab04c 0%,
+      #6ab04c 100%
     );
   }
   .todo-app {
@@ -19,7 +19,7 @@
     justify-content: start;
     width: 520px;
     min-height: 600px;
-    background: #161a2b;
+    background: #c7ecee;
     text-align: center;
     margin: 128px auto;
     border-radius: 10px;
@@ -44,15 +44,15 @@
   .todo-input {
     padding: 14px 32px 14px 16px;
     border-radius: 4px 0 0 4px;
-    border: 2px solid #5d0cff;
+    border: 2px solid #1B9CFC;
     outline: none;
     width: 320px;
     background: transparent;
-    color: #fff;
+    color: #F8EFBA;
   }
   
   .todo-input::placeholder {
-    color: #e2e2e2;
+    color: #2C3A47;
   }
   
   .todo-button {
