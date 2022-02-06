@@ -1,7 +1,7 @@
 # todo-list-v1
 
 
-## Deployed Link :https://marcostrejo23.github.io/todo-list-v1/
+## Deployed Link https://marcostrejo23.github.io/todo-list-v1/
 
 ## Description 
 
@@ -11,11 +11,20 @@ This application was built for a user to organize a Todo list. A user can add a 
 
 React.js, Javascript, Bootstrap, redux. 
 
+## installation 
+
+Fork the repository and run npm i in the CLI. NPM Start to run the application locally. 
+
+## Usage 
+For a user in need to organize their tasks for any given day. The color will help to organize their priority. 
+
+## Contribution
+
+github.com/marostrejo23 
+
 ## Screenshot:
 
- ![Screen Shot 2022-02-06 at 1 43 08 PM](https://user-images.githubusercontent.com/85652700/152702645-14fd3e54-7c8a-45a6-bdf8-6fc77f76df93.png)
 
-## License:
-
+## License: 
 
 This app uses an MIT License. 
