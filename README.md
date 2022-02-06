@@ -13,7 +13,9 @@ React.js, Javascript, Bootstrap, redux.
 
 ## Screenshot:
 
+ ![Screen Shot 2022-02-06 at 1 43 08 PM](https://user-images.githubusercontent.com/85652700/152702645-14fd3e54-7c8a-45a6-bdf8-6fc77f76df93.png)
 
-## License: 
+## License:
+
 
 This app uses an MIT License. 
